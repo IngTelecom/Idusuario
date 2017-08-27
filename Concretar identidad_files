@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title>Concretar identidad</title>
+<link rel="shortcut icon"type="image/x-icon" href="imagenes/favicon.ico">
+<link rel="stylesheet"href="css/estilo.css">
+</head>
+
+<body>
+<div><img src="imagenes/logo.jpg" width="100" alt="IngTelecom 2.0">
+
+<h2>Confirma tu identidad</h2>
+
+<p>Si haz llegado a esta parte de IngTelecom 2.0, es porque comprastes un articulo</p><br>
+
+<h4>Confirma tu identidad ingresando al siguiente vinculo</h4><br></div>
+<a href=" https://byfrost.wixsite.com/ing-telecom-vnzla/vendido" class="color">Concretar Ventas </a> 
+
+
+
+
+</body>
+
+
+</HTML>
